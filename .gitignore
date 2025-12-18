@@ -1,0 +1,27 @@
+# --- OS junk ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+Thumbs.db
+Desktop.ini
+
+# --- Obsidian vault ---
+# Per-device UI state (conflicts constantly)
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+
+# Caches / ephemeral
+vault/.obsidian/cache/
+vault/.obsidian/.cache/
+vault/.obsidian/logs/
+
+# Plugin runtime state (often noisy). Keep if you want, but usually ignore.
+vault/.obsidian/plugins/**/data.json
+
+# Obsidian trash (if enabled)
+vault/.trash/
+
+# If you ever accidentally move back into iCloud, these can appear
+*.icloud
