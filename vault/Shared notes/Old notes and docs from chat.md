@@ -14,3 +14,9 @@ https://theoremprover-museum.github.io/ lacks a bunch of stuff
 
 https://www.philipzucker.com/notes/Logic/automated-theorem-proving/
 
+https://sdiehl.github.io/zero-to-qed/03_theorem_provers.html
+
+https://www.cs.cornell.edu/courses/cs4860/2012fa/MacKenzie-TheAutomationOfProof.pdf
+
+https://www.doc.ic.ac.uk/~rak/papers/the%20early%20years.pdf
+
